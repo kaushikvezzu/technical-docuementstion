@@ -30,17 +30,6 @@
 
 <a href="https://www.vrsiddhartha.ac.in/">click here</a>
 
-<table>
-  <tr>
-  <th>first</th>
-  <th>first</th>
-  </tr>
-  <tr>
-  <td>first1</th>
-  <td>first2</th>
-  </tr>
-</table>
-
 **to create table**
 name|branch|roll
 ----|-----|----
@@ -57,6 +46,7 @@ void main()
   printf("hi");
 }
 ```
+       
 :smiley:  
 :relaxed:  
 :smirk:  	
