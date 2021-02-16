@@ -31,12 +31,12 @@
 <a href="https://www.vrsiddhartha.ac.in/">click here</a>
 
 **to create table**
-```
+|
 name|branch|roll
 ----|-----|----
 ram|cse|53
 kaushik|cse|61
-```
+|
 
 ------------------------------------
 **to insert code**
