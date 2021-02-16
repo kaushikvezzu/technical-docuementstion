@@ -31,10 +31,12 @@
 <a href="https://www.vrsiddhartha.ac.in/">click here</a>
 
 **to create table**
+```
 name|branch|roll
 ----|-----|----
 ram|cse|53
 kaushik|cse|61
+```
 
 ------------------------------------
 **to insert code**
@@ -52,14 +54,4 @@ void main()
 :smirk:  	
 :heart_eyes:  
 :kissing_heart:  
- :kissing_closed_eyes:  	
- :flushed:	 :relieved:  
- :satisfied:  
- :grin:  	
- :wink:  
- :stuck_out_tongue_winking_eye:  	 
- :stuck_out_tongue_closed_eyes:	  
- :grinning:  
- :kissing:  	 
- 
- 
+
